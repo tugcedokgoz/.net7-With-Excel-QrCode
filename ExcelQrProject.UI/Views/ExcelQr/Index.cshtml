@@ -1,0 +1,23 @@
+﻿@using ExcelQrProject.UI.Dtos;
+@model List<EmployeeGetDto>
+
+<table class="table table-bordered">
+    <tr>
+        <th>QR Kod</th>
+        <th>Ad</th>
+        <th>Soyad</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td rowspan="2" style="vertical-align: middle;">
+                <img src="@item.QrcodeImageUrl" alt="QR Code" style="max-width: 200px; max-height: 200px;" />
+            </td>
+            <td>@item.Name</td>
+            <td>@item.Surname</td>
+        </tr>
+        <tr>
+            <td colspan="2"></td>
+        </tr>
+    }
+</table>

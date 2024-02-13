@@ -1,0 +1,15 @@
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Service\bin\Debug\net7.0\ExcelQrProject.Service.deps.json
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Service\bin\Debug\net7.0\ExcelQrProject.Service.dll
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Service\bin\Debug\net7.0\ExcelQrProject.Service.pdb
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Service\obj\Debug\net7.0\ExcelQrProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Service\obj\Debug\net7.0\ExcelQrProject.Service.AssemblyInfoInputs.cache
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Service\obj\Debug\net7.0\ExcelQrProject.Service.AssemblyInfo.cs
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Service\obj\Debug\net7.0\ExcelQrProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Service\obj\Debug\net7.0\ExcelQrProject.Service.dll
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Service\obj\Debug\net7.0\refint\ExcelQrProject.Service.dll
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Service\obj\Debug\net7.0\ExcelQrProject.Service.pdb
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Service\obj\Debug\net7.0\ref\ExcelQrProject.Service.dll
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Service\bin\Debug\net7.0\ExcelQrProject.Model.dll
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Service\bin\Debug\net7.0\ExcelQrProject.Model.pdb
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Service\obj\Debug\net7.0\ExcelQrProject.Service.csproj.AssemblyReference.cache
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Service\obj\Debug\net7.0\ExcelQrProject.Service.csproj.CopyComplete

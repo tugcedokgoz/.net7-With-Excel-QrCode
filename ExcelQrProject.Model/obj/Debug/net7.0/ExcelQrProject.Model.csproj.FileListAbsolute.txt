@@ -1,0 +1,14 @@
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Model\bin\Debug\net7.0\ExcelQrProject.Model.deps.json
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Model\bin\Debug\net7.0\ExcelQrProject.Model.runtimeconfig.json
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Model\bin\Debug\net7.0\ExcelQrProject.Model.dll
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Model\bin\Debug\net7.0\ExcelQrProject.Model.pdb
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Model\obj\Debug\net7.0\ExcelQrProject.Model.csproj.AssemblyReference.cache
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Model\obj\Debug\net7.0\ExcelQrProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Model\obj\Debug\net7.0\ExcelQrProject.Model.AssemblyInfoInputs.cache
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Model\obj\Debug\net7.0\ExcelQrProject.Model.AssemblyInfo.cs
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Model\obj\Debug\net7.0\ExcelQrProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Model\obj\Debug\net7.0\ExcelQrProject.Model.dll
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Model\obj\Debug\net7.0\refint\ExcelQrProject.Model.dll
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Model\obj\Debug\net7.0\ExcelQrProject.Model.pdb
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Model\obj\Debug\net7.0\ExcelQrProject.Model.genruntimeconfig.cache
+C:\Users\tugcedokgoz\Desktop\excel-qr\ExcelQrProject\ExcelQrProject.Model\obj\Debug\net7.0\ref\ExcelQrProject.Model.dll
